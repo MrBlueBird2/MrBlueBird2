@@ -2,7 +2,7 @@
 - Hi, I’m @MrBlueBird2
 - I’m interested in Creating websites and Programming in Python.
 - I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.
-- I'm Expert at front end developement.
+- I'm Expert at front end development.
 - My Portfolio Website, https://mrbluebird2.github.io
 
 # Projects
