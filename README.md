@@ -1,5 +1,4 @@
-# @MrBlueBird2
-- Hi, I’m @MrBlueBird2
+## Hi! I am Badri Vishal
 - I’m interested in Creating websites and Programming in Python.
 - I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.
 - I'm Expert at front end developement.
