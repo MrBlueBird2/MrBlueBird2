@@ -8,6 +8,8 @@
 - https://github.com/MrBlueBird2/rock-paper-scissors
 - https://github.com/MrBlueBird2/to-do-list-flask
 - https://github.com/MrBlueBird2/mrbluebird2.github.io
+
+![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2)
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
