@@ -1,4 +1,5 @@
-# @MrBlueBird2
+# Hi! I am [Badri](https://github.com/mrbluebird2)
+I am a front-end developer, I am expert at Python Programming, I also like to create projects in Flask.
 - Hi, I’m @MrBlueBird2
 - I’m interested in Creating websites and Programming in Python.
 - I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.
@@ -6,10 +7,11 @@
 - My Portfolio Website, https://mrbluebird2.github.io
 
 # Projects
-- https://github.com/MrBlueBird2/jarvis-in-python
-- https://github.com/MrBlueBird2/rock-paper-scissors
-- https://github.com/MrBlueBird2/to-do-list-flask
-- https://github.com/MrBlueBird2/mrbluebird2.github.io
+- https://github.com/MrBlueBird2/jarvis-in-python - This is an AI bot created using Python.
+- https://github.com/MrBlueBird2/rock-paper-scissors - This is a rock paper scissors game in python.
+- https://github.com/MrBlueBird2/to-do-list-flask - A simple bootstrap to do list with flask and python.
+- https://github.com/MrBlueBird2/mrbluebird2.github.io - My Portfolio Website created using bootstrap, HTML, and CSS.
+- https://github.com/MrBlueBird2/competitive-programming - Helps you in competitive programming.
 
 # Badri's Stats
 ![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2)
