@@ -12,6 +12,7 @@ I am a front-end developer, I am expert at Python Programming, I also like to cr
 - https://github.com/MrBlueBird2/to-do-list-flask - A simple bootstrap to do list with flask and python.
 - https://github.com/MrBlueBird2/mrbluebird2.github.io - My Portfolio Website created using bootstrap, HTML, and CSS.
 
+
 For more projects click this link to open my all projects, https://github.com/mrbluebird2?tab=repositories
 
 # Badri's Stats
