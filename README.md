@@ -11,7 +11,7 @@ I am a front-end developer, I am expert at Python Programming, I also like to cr
 - https://github.com/MrBlueBird2/rock-paper-scissors - This is a rock paper scissors game in python.
 - https://github.com/MrBlueBird2/to-do-list-flask - A simple bootstrap to do list with flask and python.
 - https://github.com/MrBlueBird2/mrbluebird2.github.io - My Portfolio Website created using bootstrap, HTML, and CSS.
-- https://github.com/MrBlueBird2/competitive-programming - Helps you in competitive programming.
+For more projects click this link to open my all projects, https://github.com/mrbluebird2?tab=repository
 
 # Badri's Stats
 ![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2)
