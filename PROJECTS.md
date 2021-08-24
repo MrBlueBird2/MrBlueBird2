@@ -16,4 +16,4 @@ Create, Delete, and Update To do list.
 # [Portfolio Website](https://github.com/MrBlueBird2/mrbluebird2.github.io)
 This is my portfolio website created using HTML, CSS, and Bootstrap.
 
-Visit my portfolio website, https://github.com/MrBlueBird2/mrbluebird2.github.io
+Visit my portfolio website, https://mrbluebird2.github.io
