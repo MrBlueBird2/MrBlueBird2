@@ -16,8 +16,8 @@ I am a front-end developer, I am expert at Python Programming, I also like to cr
 For more projects click this link to see my all projects, https://github.com/MrBlueBird2/MrBlueBird2/blob/main/PROJECTS.md
 
 # Badri's Stats
-![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluebird2)](https://github.com/mrbluebird2/github-readme-stats)
+![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluebird2)](https://github.com/mrbluebird2/github-readme-stats&show_icons=true&theme=radical)
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
