@@ -17,3 +17,13 @@ Create, Delete, and Update To do list.
 This is my portfolio website created using HTML, CSS, and Bootstrap.
 
 Visit my portfolio website, https://mrbluebird2.github.io
+
+# [Web Browser](https://github.com/MrBlueBird2/web-browser)
+This is a cool web browser created using Python
+
+Old style web browser for techies.
+
+# [eCommerce Website](https://github.com/MrBlueBird2/e-commerce-html)
+This is a simple Shopping website, Created using Tailwind CSS
+
+This is simple, you can customize this by adding java script and css.
