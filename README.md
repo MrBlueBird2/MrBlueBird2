@@ -15,8 +15,8 @@ I am a front-end developer, I am expert at Python Programming, I also like to cr
 
 For more projects click this link to see my all projects, https://github.com/MrBlueBird2?tab=repositories
 
-## What I Do?
-- Web Developer
+# What I Do?
+- Web Development
 - Competitive Programming
 - Git & GitHub
 
