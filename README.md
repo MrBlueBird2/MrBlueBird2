@@ -20,6 +20,11 @@ For more projects click this link to see my all projects, https://github.com/MrB
 - Competitive Programming
 - Git & GitHub
 
+<hr />
+<br />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=3&theme=monokai&column=8&no-frame=true&no-bg=true" alt="MrBlueBird2" /></a> </p>
+
 # Badri's Stats
 ![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluebird2)](https://github.com/mrbluebird2/github-readme-stats&show_icons=true&theme=radical)
