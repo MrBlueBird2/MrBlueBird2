@@ -20,9 +20,9 @@ For more projects click this link to see my all projects, https://github.com/MrB
 - Competitive Programming
 - Git & GitHub
 
-<center>
-    <h2>Achievements</h2>
-</center>
+<br />
+
+# Achievements
 
 <br />
 
