@@ -23,7 +23,17 @@ For more projects click this link to see my all projects, https://github.com/MrB
 <hr />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=gitdimmed&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2" /></a> </p>
+<center>
+    <h2>Achievements</h2>
+</center>
+<br />
+<hr />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=gitdimmed&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+
+# Performance
+<p>
+<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=ads-juicy-fresh" alt="MrBlueBird2" />
+</p>
 
 # Badri's Stats
 ![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2&show_icons=true&theme=radical)
