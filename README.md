@@ -28,7 +28,7 @@ For more projects click this link to see my all projects, https://github.com/MrB
 
 # Performance
 <p>
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=ads-juicy-fresh" alt="MrBlueBird2" />
+<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=radical" alt="MrBlueBird2" />
 </p>
 
 # Badri's Stats
