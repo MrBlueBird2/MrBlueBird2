@@ -6,15 +6,6 @@ I am a front-end developer, I am expert at Python Programming, I also like to cr
 - :octocat: I'm Expert at front end developement.
 - ↪️ My Portfolio Website, https://mrbluebird2.github.io
 
-# Projects
-- https://github.com/MrBlueBird2/jarvis-in-python - This is an AI bot created using Python.
-- https://github.com/MrBlueBird2/rock-paper-scissors - This is a rock paper scissors game in python.
-- https://github.com/MrBlueBird2/to-do-list-flask - A simple bootstrap to do list with flask and python.
-- https://github.com/MrBlueBird2/mrbluebird2.github.io - My Portfolio Website created using bootstrap, HTML, and CSS.
-
-
-For more projects click this link to see my all projects, https://github.com/MrBlueBird2?tab=repositories
-
 # What I Do?
 - Web Development
 - Competitive Programming
@@ -32,8 +23,22 @@ For more projects click this link to see my all projects, https://github.com/MrB
 </p>
 
 # Badri's Stats
-![Badri's github stats](https://github-readme-stats.vercel.app/api?username=mrbluebird2&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluebird2)](https://github.com/mrbluebird2/github-readme-stats&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=material-palenight"/>
+</a>
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
