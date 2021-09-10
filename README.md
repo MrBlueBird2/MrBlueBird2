@@ -1,4 +1,4 @@
-# Hi! I am [Badri](https://github.com/mrbluebird2)
+# Hi! I am [Badri](https://github.com/MrBlueBird2)
 I am a front-end developer, I am expert at Python Programming, I also like to create projects in Flask.
 - 👋 Hi, I’m @MrBlueBird2
 - 👁️ I’m interested in Creating websites and Programming in Python.
