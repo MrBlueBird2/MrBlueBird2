@@ -94,7 +94,22 @@ Atom                     1 Hour             ████████████
 Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 
-#### My Mountain ⛰️
-<p align="center">
-  /\
-</p>
+#### Want to know mor about me??
+```javascript
+const person = {
+  name: "Badri Vishal Mani Tripathi",
+  role: "Front end developer",
+  workExperience: {
+    company: "Crediometer",
+    type: "Intern",
+    position: "Frontend Web Developer",
+    unpaid: true
+  },
+  "links": {
+    website: "https://mrbluebird2.github.io",
+    github: "https://github.com/mrbluebird2",
+    codechef: "https://codechef.com/users/mrbluebird2,
+    atcoder: "https://atcoder.jp/users/Mr_BlueBird,
+  },
+};
+```
