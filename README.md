@@ -108,7 +108,7 @@ const person = {
   "links": {
     website: "https://mrbluebird2.github.io",
     github: "https://github.com/mrbluebird2",
-    codechef: "https://codechef.com/users/mrbluebird2,
+    codechef: "https://codechef.com/users/mrbluebird2",
     atcoder: "https://atcoder.jp/users/Mr_BlueBird",
   },
 };
