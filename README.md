@@ -105,7 +105,6 @@ const person = {
     position: "Frontend Web Developer",
     unpaid: true
   },
-  
   "links": {
     website: "https://mrbluebird2.github.io",
     github: "https://github.com/mrbluebird2",
