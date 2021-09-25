@@ -94,7 +94,7 @@ Atom                     1 Hour             ████████████
 Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 
-#### Want to know mor about me??
+#### Want to know more about me??
 ```javascript
 const person = {
   name: "Badri Vishal Mani Tripathi",
@@ -105,6 +105,7 @@ const person = {
     position: "Frontend Web Developer",
     unpaid: true
   },
+  
   "links": {
     website: "https://mrbluebird2.github.io",
     github: "https://github.com/mrbluebird2",
