@@ -14,6 +14,19 @@
   <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
 </ul>
 
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
+
 #### My GitHub Data :octocat:
 > 🏆 420+ Contributions in the Year 2021
  > 
