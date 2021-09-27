@@ -1,6 +1,0 @@
-name: GitHub - Activity - Readme
-uses: jamesgeorge007/github-activity-readme@v0.3.6
-    with:
-        GH_USERNAME: # optional, default is ${{ github.repository_owner }}
-        COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
-        MAX_LINES: 10
