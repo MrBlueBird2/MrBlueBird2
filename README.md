@@ -21,8 +21,14 @@ const badri = {
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: {
+          js: ["React JS", "Node JS"],
+          css: ["Tailwind CSS", "Bootstrap"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
   }
 }
 ```
