@@ -76,7 +76,7 @@ MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-#### I'm an Early 🐤
+
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
 🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
