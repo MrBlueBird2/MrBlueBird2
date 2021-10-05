@@ -12,6 +12,7 @@
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
   <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>😂 Fun Fact: I hacked GitHub Contribution Graph, and Got 2000+ Contributions on GitHub.
 </ul>
 
 #### A little more about me
@@ -34,7 +35,7 @@ const badri = {
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
+> 🏆 2000+ Contributions in the Year 2021
  > 
 > 📜 400+ Commits on GitHub
  > 
@@ -53,7 +54,7 @@ const badri = {
 
 #### Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=3&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
