@@ -12,7 +12,6 @@
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
   <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
-  <li>😂 Fun Fact: I hacked GitHub Contribution Graph, and Got 2000+ Contributions on GitHub.
 </ul>
 
 #### A little more about me
@@ -35,11 +34,11 @@ const badri = {
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 2000+ Contributions in the Year 2021
+> 🏆 600+ Contributions in the Year 2021
  > 
-> 📜 400+ Commits on GitHub
+> 📜 560+ Commits on GitHub
  > 
-> 🔑 200+ Contribution in Private Repos
+> 🔑 240+ Contribution in Private Repos
  > 
 
 #### Popular Projects
