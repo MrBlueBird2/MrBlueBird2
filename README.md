@@ -34,11 +34,11 @@ const badri = {
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 600+ Contributions in the Year 2021
+> 🏆 700+ Contributions in the Year 2021
  > 
-> 📜 560+ Commits on GitHub
+> 📜 600+ Commits on GitHub
  > 
-> 🔑 240+ Contribution in Private Repos
+> 🔑 260+ Contribution in Private Repos
  > 
 
 #### Popular Projects
