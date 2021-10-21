@@ -60,7 +60,7 @@ const badri = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBlueBird2&count_private=true&show_icons=false&theme=onedark" alt="Badri's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&theme=onedark" />
 </a>
 <br />
 <br />
