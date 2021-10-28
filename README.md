@@ -121,12 +121,12 @@ const person = {
 ```
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <p align="center">
   'Never ever Lose Hope, and One day your hope with become true'
   <br>
       - Badri Vishal
 </p>
+
+<br>
+<br>
