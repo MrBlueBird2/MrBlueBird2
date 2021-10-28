@@ -129,4 +129,3 @@ const person = {
 </p>
 
 <br>
-<br>
