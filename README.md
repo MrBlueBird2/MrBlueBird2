@@ -122,5 +122,4 @@ const person = {
 
 #### Links
 Instagram - https://www.instagram.com/mrbluebird2/
-Twitter - https://twitter.com/imBvishal
 Website - https://badrivishal.pages.dev
