@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Aryan Tripathi</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
@@ -58,7 +58,7 @@ const badri = {
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBlueBird2&count_private=true&show_icons=true&theme=onedark" alt="Badri's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBlueBird2&count_private=true&show_icons=true&theme=onedark" alt="Aryan's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlueBird2&count_private=true&langs_count=3&theme=onedark" />
@@ -70,7 +70,7 @@ const badri = {
 </p>
 
 #### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -103,7 +103,7 @@ Linux Ubuntu             14 hrs 2 mins      ████████████
 #### Want to know more about me??
 ```javascript
 const person = {
-  name: "Badri Vishal Mani Tripathi",
+  name: "Aryan Mani Tripathi",
   role: "Front end developer",
   workExperience: {
     company: "Crediometer",
