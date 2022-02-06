@@ -17,7 +17,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const aryan = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
@@ -66,7 +66,7 @@ const badri = {
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=dark_lover" alt="MrBlueBird2" />
 </p>
 
 #### Contribution Graph
