@@ -54,7 +54,7 @@ const aryan = {
 
 #### Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=3&column=7&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=3&column=7&theme=dark_lover&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
