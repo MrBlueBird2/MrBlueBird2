@@ -123,4 +123,4 @@ const person = {
 #### Links
 Instagram - https://www.instagram.com/mrbluebird2/
 
-Website - https://badrivishal.pages.dev
+Website - https://react-portfolio-9l6.pages.dev
