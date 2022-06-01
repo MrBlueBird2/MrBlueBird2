@@ -10,9 +10,9 @@
 <ul>
   <li>👋 Hi, I’m @MrBlueBird2</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
+  <li>🌱 I’m currently learning Web Development, Android Development, C++, and Java.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website built with React JS, https://bvmt-react-portfolio.pages.dev</li>
+  <li>🧐 Portfolio Website built with React JS, https://react-portfolio-9l6.pages.dev</li>
 </ul>
 
 #### A little more about me
@@ -35,9 +35,9 @@ const aryan = {
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 700+ Contributions in the Year 2021
+> 🏆 2000+ Contributions in the Year 2021
  > 
-> 📜 600+ Commits on GitHub
+> 📜 1300+ Commits on GitHub
  > 
 > 🔑 260+ Contribution in Private Repos
  > 
@@ -109,10 +109,9 @@ const person = {
     company: "Crediometer",
     type: "Intern",
     position: "Frontend Web Developer",
-    unpaid: true
   },
   "links": {
-    website: "https://mrbluebird2.github.io",
+    website: "https://react-portfolio-9l6.pages.dev",
     github: "https://github.com/mrbluebird2",
     codechef: "https://codechef.com/users/mrbluebird2",
     atcoder: "https://atcoder.jp/users/Mr_BlueBird",
