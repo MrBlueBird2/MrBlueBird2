@@ -11,7 +11,7 @@
   <li>👋 Hi, I’m @MrBlueBird2</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, and Java.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
+  <li>💼 I'm founder and Co-CEO of Arantic Tutorials.</li>
   <li>🧐 Portfolio Website built with React JS, https://react-portfolio-9l6.pages.dev</li>
 </ul>
 
@@ -106,9 +106,9 @@ const person = {
   name: "Aryan Mani Tripathi",
   role: "Front end developer",
   workExperience: {
-    company: "Crediometer",
-    type: "Intern",
-    position: "Frontend Web Developer",
+    company: "Arantic Tutorials",
+    type: "Self-Employed",
+    position: "Founder & Co-CEO",
   },
   "links": {
     website: "https://react-portfolio-9l6.pages.dev",
