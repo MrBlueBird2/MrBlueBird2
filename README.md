@@ -9,10 +9,9 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, and Java.</li>
-  <li>💼 I'm founder and Co-CEO of Arantic Tutorials.</li>
-  <li>🧐 Portfolio Website built with React JS, https://react-portfolio-9l6.pages.dev</li>
+  <li>❤️ I love building websites and programming in Python.</li>
+  <li>🌱 I’m currently learning Android Development, C++, and Java.</li>
+  <li>💼 Working on my portfolio <3 Will be completed on 5 Sep 2023</li>
 </ul>
 
 #### A little more about me
@@ -106,20 +105,17 @@ const person = {
   name: "Aryan Mani Tripathi",
   role: "Front end developer",
   workExperience: {
-    company: "Arantic Tutorials",
-    type: "Self-Employed",
-    position: "Founder & Co-CEO",
+    company: "Crediometer",
+    type: "Internship",
+    position: "Front End Developer",
   },
   "links": {
-    website: "https://react-portfolio-9l6.pages.dev",
     github: "https://github.com/mrbluebird2",
     codechef: "https://codechef.com/users/mrbluebird2",
-    atcoder: "https://atcoder.jp/users/Mr_BlueBird",
+    atcoder: "https://atcoder.jp/users/mrbluebird2",
   },
 };
 ```
 
 #### Links
 Instagram - https://www.instagram.com/mrbluebird2/
-
-Website - https://react-portfolio-9l6.pages.dev
