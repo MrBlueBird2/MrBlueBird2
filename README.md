@@ -2,24 +2,24 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Aryan Tripathi</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Aryan+Tripathi;A+Competitive+Programmer;Doing+Web+Dev+and+DSA" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.
+<p>So, let's begin with my introduction!
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
+  <li>👋 Hi, I’m <a href="https://github.com/MrBlueBird2">@MrBlueBird2</a></li>
   <li>❤️ I love building websites and programming in Python.</li>
-  <li>🌱 I’m currently learning Android Development, C++, and Java.</li>
-  <li>💼 Working on my portfolio <3 Will be completed on 5 Sep 2023</li>
+  <li>🌱 I’m currently learning DSA and Java.</li>
+  <li>💼 Soon, I will post many web dev projects.</li>
 </ul>
 
 #### A little more about me
 ```javascript
 const aryan = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["Python", "Java", "HTML/CSS", "C++"],
+  askMeAbout: ["frontend dev", "python", "dsa"],
   technologies: {
       frontend: {
           js: ["React JS", "Node JS"],
@@ -33,12 +33,12 @@ const aryan = {
 }
 ```
 
-#### My GitHub Data :octocat:
-> 🏆 2000+ Contributions in the Year 2021
+#### Achievemnts :octocat:
+> 🏆 Completed my first internship at Crediometer from 2021-2022
  > 
-> 📜 1300+ Commits on GitHub
+> 📜 @CC - 1129 1* | @AtCoder - 233 | @CodeForces - 737
  > 
-> 🔑 260+ Contribution in Private Repos
+> 🔑 Cleared CodeChef Snackdown Round A 2021
  > 
 
 #### Popular Projects
@@ -93,10 +93,10 @@ GitHub & Git             57 mins             █░░░░░░░░░░�
 
 🔥 Editors:
 VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
-Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
+Sublime Text             1 Hour             ██████████████░░░░░░░░░░░   50%
 
 💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
+Windows 11             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 
 #### Want to know more about me??
@@ -111,11 +111,8 @@ const person = {
   },
   "links": {
     github: "https://github.com/mrbluebird2",
-    codechef: "https://codechef.com/users/mrbluebird2",
-    atcoder: "https://atcoder.jp/users/mrbluebird2",
+    codechef: "https://codechef.com/users/aryan053",
+    atcoder: "https://leetcode.com/aryantripathi05",
   },
 };
 ```
-
-#### Links
-Instagram - https://www.instagram.com/mrbluebird2/
