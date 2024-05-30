@@ -111,8 +111,6 @@ const person = {
   },
   "links": {
     github: "https://github.com/mrbluebird2",
-    codechef: "https://codechef.com/users/aryan053",
-    atcoder: "https://leetcode.com/aryantripathi05",
   },
 };
 ```
