@@ -34,8 +34,6 @@ const aryan = {
 ```
 
 #### Achievemnts :octocat:
-> 🏆 Completed my first internship at Crediometer from 2021-2022
- > 
 > 📜 @CC - 1129 1* | @AtCoder - 233 | @CodeForces - 737
  > 
 > 🔑 Cleared CodeChef Snackdown Round A 2021
@@ -104,11 +102,6 @@ Windows 11             14 hrs 2 mins      ████████████�
 const person = {
   name: "Aryan Mani Tripathi",
   role: "Front end developer",
-  workExperience: {
-    company: "Crediometer",
-    type: "Internship",
-    position: "Front End Developer",
-  },
   "links": {
     github: "https://github.com/mrbluebird2",
   },
